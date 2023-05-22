@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/FatBoyJump.mp3-766ed7bfb8ac5e32edd6dbd66c17a6f8.mp3str"
+
+[deps]
+
+source_file="res://Mp3/FatBoyJump.mp3"
+dest_files=[ "res://.import/FatBoyJump.mp3-766ed7bfb8ac5e32edd6dbd66c17a6f8.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
